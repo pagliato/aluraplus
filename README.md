@@ -17,3 +17,5 @@ Curso da Alura: HTML e CSS - Praticando HTML e CSS.
 * margin e padding
 * alinhamentos
 * pseudo-classes e suas funções
+  
+![Alura Plus](https://github.com/pagliato/aluraplus/assets/106637848/df6c911d-367a-4558-b4bd-67b29119a305)
